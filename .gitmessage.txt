@@ -1,0 +1,94 @@
+##################################################
+# Title:
+# Write a title summarizing what this commit does.
+# structure your title as follows:
+#   <type>[optional scope]: <description>
+# For <type>, use a lowercase noun such as
+# fix, feat, BREAKING CHANGE, etc.
+# For <description>, start with imperative
+# mood, present tense, active voice verbs, such as
+# add, drop, fix, refactor, bump, etc.
+# For [optional scope], use help section below
+# Examples:
+#   fix: fix bugs in codebase
+#   feat: add new feature for users
+#   docs: create README.md
+# Do not end the title line with a period.
+# Use 50 char maximum, which is this line's width.
+##################################################
+# 50 characters title here:
+
+# Remember blank line between title and body.
+
+########################################################################
+# Body:
+# Explain the problem, what changed, and why this change is happening.
+# Describe the purpose, such as a goal, or use case, or user story, etc.
+# Describe any relevant algorithms, protocols, implementation spec, etc.
+#
+# Bullet points are okay:
+# - Typically a hyphen or asterisk is used for the bullet, preceded
+#   by a single space, with blank lines in between
+#
+# If you use an issue tracker, put references to them at the bottom,
+# like this:
+#   Resolves: #123
+#   See also: #456, #789
+#
+# For every line, use 72 char maximum width, which is this line's width.
+########################################################################
+
+########################################################################
+#
+# ## Help ##
+# For [optional scope] and further guidance, see:
+# https://www.conventionalcommits.org/en/v1.0.0/
+#
+# nouns for <type>:
+#   feat = introduces a new feature
+#   fix = fix an issue, bug, or typo
+#   BREAKING CHANGE = introduces a breaking change
+#   build = changes that affect the build system or external dependencies
+#   chore = maintain, e.g. update deps, lint, etc.
+#   ci = changes to our CI configuration files and scripts
+#   docs = documentation only changes
+#   style = changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+#   refactor = a code change that neither fixes a bug nor adds a feature
+#   perf = a code change that improves performance
+#   test = adding missing tests or correcting existing tests, e.g. unit tests, integration tests, etc.
+#
+# Imperative verb examples for <description>:
+#
+#   fix = fix an issue e.g. bug, typo, accident, misstatement.
+#   debug = debug an issue e.g. bug, typo, accident, misstatement.
+#   add = create a capability e.g. feature, test, dependency.
+#   remove = delete a capability e.g. feature, test, dependency.
+#   update = update an existing capability e.g. dependency.
+#   create = create a new feature e.g. new feature, new class, new function, new method, etc.
+#   merge = merge branches e.g. fix, feature, dependency.
+#   bump = increase the version of something e.g. a dependency.
+#   release = package and release a new version of a package.
+#   make = change the build process, or tools, or infrastructure.
+#   start = begin doing something; e.g. enable a toggle, feature flag, etc.
+#   stop = end doing something; e.g. disable a toggle, feature flag, etc.
+#   optimize = a change that MUST be just about performance, e.g. speed up code.
+#   document = a change that MUST be only in the documentation, e.g. help files.
+#   refactor = a change that MUST be just refactoring.
+#   reformat = a change that MUST be just format, e.g. indent line, trim space, etc.
+#   rephrase = a change that MUST be just textual, e.g. edit a comment, doc, etc.
+#   rearrange = a change that MUST be just arranging, e.g. change layout.
+#   redraw = a change that MUST be just visual, e.g. change a graphic, image, icon, etc.
+#   reword = a change that MUST be just textual, e.g. change a comment, label, doc, etc.
+#
+# For the subject line:
+#
+#   * Use 50 characters maximum.
+#
+#   * Do not use a sentence-ending period.
+#
+# For the body text:
+#
+#   * Use as many lines as you like.
+#
+#   * Use 72 characters maximum per line for typical word wrap text.
+########################################################################
